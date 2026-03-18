@@ -5,4 +5,8 @@
 This line is written by Branch A
 This line is written by Branch B
 
+<<<<<<< HEAD
 "New work on main" 
+=======
+"Feature line 1" 
+>>>>>>> 81487ff (Feature commit 1)
