@@ -9,4 +9,8 @@ This line is written by Branch B
 "New work on main" 
 =======
 "Feature line 1" 
+<<<<<<< HEAD
 >>>>>>> 81487ff (Feature commit 1)
+=======
+"Feature line 2" 
+>>>>>>> 7bca422 (Feature commit 2)
